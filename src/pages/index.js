@@ -5,6 +5,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 
 
+
 import Info from "../components/Home/Info"
 
 import BackgroundSlider from "gatsby-image-background-slider"
